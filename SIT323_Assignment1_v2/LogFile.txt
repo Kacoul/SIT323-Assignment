@@ -1,0 +1,6 @@
+Test 6 - wordlist.csv - Error: Invalid CSV file - Word list contains a number or unrecognised symbol.
+Test 6 - wordlist.csv - Error: Invalid CSV file - The CSV file does not contain valid numbers for dimensions or for number of words.
+End Report
+Date: 10:35 02-06-2016
+ 
+ 

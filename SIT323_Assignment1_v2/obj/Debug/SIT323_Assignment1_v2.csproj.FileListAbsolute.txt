@@ -1,0 +1,9 @@
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\bin\Debug\SIT323_Assignment1_v2.exe.config
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\bin\Debug\SIT323_Assignment1_v2.exe
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\bin\Debug\SIT323_Assignment1_v2.pdb
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.csprojResolveAssemblyReference.cache
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.CrozzleGame.resources
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.Properties.Resources.resources
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.csproj.GenerateResource.Cache
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.exe
+C:\Users\Kane-Desktop\Desktop\Portfolio of Code\SIT323_Assignment1_v2\SIT323_Assignment1_v2\obj\Debug\SIT323_Assignment1_v2.pdb
